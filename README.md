@@ -1,1 +1,1 @@
-# Amazon-Clone-Frontend
+This project is a front-end clone of Amazon’s homepage, created entirely with HTML and CSS. I built it as a personal challenge to test and improve my efficiency in writing clean, responsive, and well-structured code. While it doesn’t include backend functionality, the layout and styling closely mimic the real Amazon interface, showcasing my skills in web design and attention to detail.
